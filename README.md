@@ -1,11 +1,13 @@
-# Gatsby Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/gatsby-simplefolio?color=blue)](https://github.com/cobidev/gatsby-simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/gatsby-simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/gatsby-simplefolio)
 
-## A clean, beautiful and responsive portfolio template for Developers
+# Jason Quaglia Portfolio
 
-<h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Gatsby Simplefolio" width="600px" />
-  <br>
-</h2>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1653e49c-a9bd-4709-801d-c7ee95ca7f83/deploy-status)](https://app.netlify.com/sites/romantic-clarke-56bd4b/deploys)
+
+[Deployed Site](https://romantic-clarke-56bd4b.netlify.app/)
+
+[Link to PR](https://github.com/jquaglia/gatsby-portfolio/pull/1)
+
+## Gatsby Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/gatsby-simplefolio?color=blue)](https://github.com/cobidev/gatsby-simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/gatsby-simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/gatsby-simplefolio)
 
 ## Features
 
@@ -93,10 +95,6 @@ $ sudo npm install --unsafe-perm=true --allow-root
 ```
 
 Once your server has started, go to this url `http://localhost:8000/` and you will see the website running on a Development Server:
-
-<h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.png" alt="Gatsby Simplefolio" width="100%">
-</h2>
 
 ---
 
